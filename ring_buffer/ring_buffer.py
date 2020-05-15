@@ -1,4 +1,4 @@
-from dll import DoublyLinkedList
+from bst import DoublyLinkedList
 
 class RingBuffer:
     def __init__(self, capacity):
